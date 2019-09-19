@@ -8,6 +8,9 @@ The data I propose to visualize for my project is ...
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
+![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)
+
+
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
 Questions & Tasks
 The following tasks and questions will drive the visualization and interaction decisions for this project:
