@@ -1,10 +1,10 @@
-#Data Visualization Project
+# Data Visualization Project
 
-##Data
+## Data
 
 The data I propose to visualize for my project is ...
 
-##Prototypes
+## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
 
