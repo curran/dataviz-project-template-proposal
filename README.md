@@ -38,3 +38,7 @@ The following tasks and questions will drive the visualization and interaction d
 ## Open Questions
 
 (describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+
+## Milestones
+
+(for each week, estimate what would be accomplised)
