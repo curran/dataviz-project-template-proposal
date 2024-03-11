@@ -4,6 +4,22 @@
 
 The data I propose to visualize for my project is ...
 
+
+## Questions & Tasks
+
+The following tasks and questions will drive the visualization and interaction decisions for this project:
+
+ * (insert your question or task here) How does the X vary over time?
+ * (insert your question or task here) Is there any correlation between X and Y?
+ * (insert your question or task here) Are there interesting spatial patterns in X?
+ * (insert your question or task here) How many X are there across different Y?
+
+## Sketches
+
+(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
+(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+
+
 ## Prototypes
 
 I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
@@ -22,20 +38,6 @@ You can make images into links like this:
 
 
 Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
-
-## Questions & Tasks
-
-The following tasks and questions will drive the visualization and interaction decisions for this project:
-
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
-
-## Sketches
-
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
 
 ## Open Questions
 
