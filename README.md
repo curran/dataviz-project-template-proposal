@@ -12,6 +12,8 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 (please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
 
+You can put images into here by pasting them into issues.
+
 You can make images into links like this:
 
 ```
